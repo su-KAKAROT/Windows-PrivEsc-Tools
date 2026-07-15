@@ -1,0 +1,2 @@
+/home/y4t/Desktop/WinPrivEsc/Tools/Whisker/Whisker/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
+/home/y4t/Desktop/WinPrivEsc/Tools/Whisker/Whisker/obj/Debug/Whisker.DSInternals.Common.Properties.Resources.resources
